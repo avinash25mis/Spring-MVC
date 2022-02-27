@@ -1,0 +1,7 @@
+com\app\avi\controller\AppController.class
+com\app\avi\MainHelper.class
+com\app\avi\service\UserServiceImpl.class
+com\app\avi\service\UserService.class
+com\app\avi\AppStarter.class
+com\app\avi\configuration\AppConfig.class
+com\app\avi\model\User.class
